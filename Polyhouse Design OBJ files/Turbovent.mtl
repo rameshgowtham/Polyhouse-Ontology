@@ -1,0 +1,19 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Metal_Rough
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.568627 0.576471
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steel_Brushed_Stainless
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.607843 0.619608
+Ks 0.330000 0.330000 0.330000
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
