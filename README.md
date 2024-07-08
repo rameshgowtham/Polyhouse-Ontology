@@ -6,3 +6,5 @@ The dataset includes Polyhouse 3D Design, Object files of polyhouse components, 
 - _Polyhouse.ifc_ - The file contains a 3D model of the polyhouse exported in the open Industry Foundation Classes (IFC) format. IFC is a global standard designed for sharing and exchanging information across the construction and management sectors.
 
 - _The Polyhouse Design OBJ files_ - This folder contains the geometry of polyhouse components in the Wavefront OBJ format. The URIs of each of these OBJ files in this Git repository are used to create individuals in the polyhouse ontology, representing 3D models of specific components annotated in the ontology. The individuals and corresponding OBJ files are linked using the has3DModel object property.
+
+- _Polyhouse.ttl_ - Is a unified polyhouse ontology designed to model complex Cyber-Physical Systems (CPSs). This ontology primarily reuses concepts defined in popular domain ontologies to represent polyhouse operations.  
