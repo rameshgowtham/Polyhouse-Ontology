@@ -11,8 +11,8 @@ The dataset includes Polyhouse 3D Design, Object files of polyhouse components, 
 
 ## To get more information pls, contact authors
 **Dr.R.Gowtham  <sup>1</sup>, Mr. Dheepan Kannan <sup>1</sup>, Dr. Shunmuga Velayutham  <sup>1</sup>, Dr. Janci Rani P.R  <sup>2 </sup>** </br>
-<sup>1</sup> Department of Computer Science and Engineering, Amrita School of Computing, Coimbatore, Amrita Vishwa Vidyapeetham, India.
-<sup>1</sup> Department of Food Science and Nutrition, School of Physical Sciences, Coimbatore, Amrita Vishwa Vidyapeetham, India.
+<sup>1</sup> Department of Computer Science and Engineering, Amrita School of Computing, Coimbatore, Amrita Vishwa Vidyapeetham, India. </br>
+<sup>2</sup> Department of Food Science and Nutrition, School of Physical Sciences, Coimbatore, Amrita Vishwa Vidyapeetham, India.
 
 E-mail: r_gowtham@cb.amrita.edu and rameshgowtham@gmail.com
 
